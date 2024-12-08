@@ -1,0 +1,3 @@
+[submodule "holidays_api"]
+	path = holidays_api
+	url = https://gitee.com/web/holidays_api.git
